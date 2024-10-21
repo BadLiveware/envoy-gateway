@@ -1615,8 +1615,8 @@
       {
         "current": {
           "selected": false,
-          "text": "httproute/default/backend/rule/0",
-          "value": "httproute/default/backend/rule/0"
+          "text": "All",
+          "value": "$__all"
         },
         "datasource": {
           "uid": "$datasource"
